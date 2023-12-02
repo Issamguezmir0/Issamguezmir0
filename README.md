@@ -8,6 +8,8 @@ Hello, I'm Issam Guezmir, a 4th-year engineering student with a passion for soft
 - **Databases:** MongoDB, Firebase, SQLite , mySql
 - **Development Tools:** Git, VS Code, Xcode, Android Studio , IntelliJ
 - **Others:** HTML, CSS, RESTful APIs
+- Languages and Tools:
+android angular bootstrap css3 dart django express figma flutter gcp git go  html5 java javascript laravel  mongodb mysql nodejs oracle php  postman  spring typescript symfony
 
 ## 📚 Education
 
