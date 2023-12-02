@@ -8,8 +8,6 @@ Hello, I'm Issam Guezmir, a 4th-year engineering student with a passion for soft
 - **Databases:** MongoDB, Firebase, SQLite , mySql
 - **Development Tools:** Git, VS Code, Xcode, Android Studio , IntelliJ
 - **Others:** HTML, CSS, RESTful APIs
-- Languages and Tools:
-android angular bootstrap css3 dart django express figma flutter gcp git go  html5 java javascript laravel  mongodb mysql nodejs oracle php  postman  spring typescript symfony
 
 ## 📚 Education
 
@@ -18,15 +16,15 @@ android angular bootstrap css3 dart django express figma flutter gcp git go  htm
 
 ## 🚀 Notable Projects
 
- [Ecotrack] - EcoTrack is a mobile application designed to encourage users to adopt a more environmentally friendly lifestyle and contribute to the fight against climate change. Features include carbon footprint tracking, tips to reduce carbon footprint, ecological challenges, and an eco-points map. Developed for iOS in Swift and Android with Kotlin.
+- [Ecotrack](link_to_ecotrack) - EcoTrack is a mobile application designed to encourage users to adopt a more environmentally friendly lifestyle and contribute to the fight against climate change. Features include carbon footprint tracking, tips to reduce carbon footprint, ecological challenges, and an eco-points map. Developed for iOS in Swift and Android with Kotlin.
 
-- [E-commerce Platform] - Developed in three versions: desktop with JavaFX and Scene Builder, web with Symfony and template integration, and mobile with CodeNameOne.
+- [E-commerce Platform](link_to_e-commerce) - Developed in three versions: desktop with JavaFX and Scene Builder, web with Symfony and template integration, and mobile with CodeNameOne.
 
-- [Tunisaire Handling Company Website] - Website for the Tunisian Aerial Handling Company using php laravel.
+- [Tunisaire Handling Company Website](link_to_tunisaire) - Website for the Tunisian Aerial Handling Company using php laravel.
 
-- [HR Management Application] - Final year project involving the development of an HR management application using Node.js, AngularJS, Express.js, and MongoDB.
+- [HR Management Application](link_to_hr_management) - Final year project involving the development of an HR management application using Node.js, AngularJS, Express.js, and MongoDB.
 
-- [Phone Directory Management Application] - Application for managing phone directories using React, Node.js, and Express.js.
+- [Phone Directory Management Application](link_to_phone_directory) - Application for managing phone directories using React, Node.js, and Express.js.
 
 ## 📫 Contact Me
 
@@ -36,9 +34,20 @@ Feel free to reach out for collaboration opportunities, interesting projects, or
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=issamguezmir0&show_icons=true&count_private=true&hide=issues&theme=dark)
 
+## 📊 More Statistics
+
+- **GitHub Activity Graph:**
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=issamguezmir0&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+
+- **GitHub Profile Summary Cards:**
+  ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=issamguezmir0&theme=github_dark)
+
+- **WakaTime Integration:**
+  ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=issamguezmir0&layout=compact&theme=dark)
+
 ## 🌐 Links
 
-- [LinkedIn]([link_to_your_linkedin_profile](https://www.facebook.com/groups/148541391957259?locale=fr_FR))
-- [Portfolio]([link_to_your_portfolio](https://www.facebook.com/groups/148541391957259?locale=fr_FR)https://www.facebook.com/groups/148541391957259?locale=fr_FR)
+- [LinkedIn](https://www.linkedin.com/in/issam-guezmir-b3332a195/)
+- [Portfolio]([https://www.facebook.com/groups/148541391957259?locale=fr_FR](https://www.linkedin.com/in/issam-guezmir-b3332a195/)https://www.linkedin.com/in/issam-guezmir-b3332a195/)
 
 Thanks for visiting my profile! 🙌
