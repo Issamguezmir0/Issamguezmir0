@@ -16,7 +16,7 @@ Hello, I'm Issam Guezmir, a 4th-year engineering student with a passion for soft
 
 ## 🚀 Notable Projects
 
-- [Ecotrack](link_to_ecotrack) - EcoTrack is a mobile application designed to encourage users to adopt a more environmentally friendly lifestyle and contribute to the fight against climate change. Features include carbon footprint tracking, tips to reduce carbon footprint, ecological challenges, and an eco-points map. Developed for iOS in Swift and Android with Kotlin.
+- [Greentrack](link_to_ecotrack) - EcoTrack is a mobile application designed to encourage users to adopt a more environmentally friendly lifestyle and contribute to the fight against climate change. Features include carbon footprint tracking, tips to reduce carbon footprint, ecological challenges, and an eco-points map. Developed for iOS in Swift and Android with Kotlin.
 
 - [E-commerce Platform](link_to_e-commerce) - Developed in three versions: desktop with JavaFX and Scene Builder, web with Symfony and template integration, and mobile with CodeNameOne.
 
