@@ -16,15 +16,15 @@ Hello, I'm Issam Guezmir, a 4th-year engineering student with a passion for soft
 
 ## 🚀 Notable Projects
 
-- [Greentrack](link_to_ecotrack) - EcoTrack is a mobile application designed to encourage users to adopt a more environmentally friendly lifestyle and contribute to the fight against climate change. Features include carbon footprint tracking, tips to reduce carbon footprint, ecological challenges, and an eco-points map. Developed for iOS in Swift and Android with Kotlin.
+- [Greentrack](https://github.com/Issamguezmir0/GreenTrack-Flutter) - EcoTrack is a mobile application designed to encourage users to adopt a more environmentally friendly lifestyle and contribute to the fight against climate change. Features include carbon footprint tracking, tips to reduce carbon footprint, ecological challenges, and an eco-points map. Developed for iOS in Swift and Android with Kotlin.
 
-- [E-commerce Platform](link_to_e-commerce) - Developed in three versions: desktop with JavaFX and Scene Builder, web with Symfony and template integration, and mobile with CodeNameOne.
+- [E-commerce Platform](https://github.com/Issamguezmir0/Module-Transaction-Facturation-javaFX-APi-MAILING-PDF) - Developed in three versions: desktop with JavaFX and Scene Builder, web with Symfony and template integration, and mobile with CodeNameOne.
 
-- [Tunisaire Handling Company Website](link_to_tunisaire) - Website for the Tunisian Aerial Handling Company using php laravel.
+- [Tunisaire Handling Company Website](https://github.com/Issamguezmir0/SYMFONY-Bandl-MAILING-AND-PDF) - Website for the Tunisian Aerial Handling Company using php symfony (Template integration) and mySQL .
 
-- [HR Management Application](link_to_hr_management) - Final year project involving the development of an HR management application using Node.js, AngularJS, Express.js, and MongoDB.
+- [HR Management Application](https://github.com/Issamguezmir0/Backend-PDM) - Final year project involving the development of an HR management application using Node.js, AngularJS, Express.js, and MongoDB.
 
-- [Phone Directory Management Application](link_to_phone_directory) - Application for managing phone directories using React, Node.js, and Express.js.
+- [Phone Directory Management Application] - Application for managing phone directories using React, Node.js, Express.js , and mongoDB.
 
 ## 📫 Contact Me
 
