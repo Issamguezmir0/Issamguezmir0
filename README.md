@@ -48,8 +48,7 @@ Feel free to reach out for collaboration opportunities, interesting projects, or
 ## 🌐 Links
 
 - [LinkedIn](https://www.linkedin.com/in/issam-guezmir-b3332a195/)
-- [Portfolio]([https://www.facebook.com/groups/148541391957259?locale=fr_FR](https://www.linkedin.com/in/issam-guezmir-b3332a195/)https://www.linkedin.com/in/issam-guezmir-b3332a195/)
-- [Facebook]([https://www.linkedin.com/in/issam-guezmir-b3332a195/](https://www.facebook.com/isam.gzt/?locale=fr_FR)https://www.facebook.com/isam.gzt/?locale=fr_FR)
+- [Facebook](https://www.facebook.com/isam.gzt/)
 
 
 Thanks for visiting my profile! 🙌
