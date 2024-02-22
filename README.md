@@ -22,7 +22,7 @@ Hello, I'm Issam Guezmir, a 4th-year engineering student with a passion for soft
 
 - [Tunisaire Handling Company Website](https://github.com/Issamguezmir0/SYMFONY-Bandl-MAILING-AND-PDF) - Website for the Tunisian Aerial Handling Company using php symfony (Template integration) and mySQL .
 
-- [HR Management Application](https://github.com/Issamguezmir0/Backend-PDM) - Final year project involving the development of an HR management application using Node.js, AngularJS, Express.js, and MongoDB.
+- [HR Management Application](https://github.com/Issamguezmir0/HumainRessource_App) - Final year project involving the development of an HR management application using Node.js, AngularJS, Express.js, and MongoDB.
 
 - [Phone Directory Management Application] - Application for managing phone directories using React, Node.js, Express.js , and mongoDB.
 
