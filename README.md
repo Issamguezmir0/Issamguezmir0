@@ -4,7 +4,7 @@ Hello, I'm Issam Guezmir, a 4th-year engineering student with a passion for soft
 
 ## 🛠️ Skills
 
-- **Programming Languages:** JavaScript (Node.js , Angular), Swift (SwiftUI , UIkit) , Dart (Flutter), Java (Kotlin) , java (Spring Boot)
+- **Programming Languages:** JavaScript (Node.js , Angular), Swift (SwiftUI , UIkit) , Dart (Flutter), Java (Kotlin) , java (Spring Boot) , C# (ASP.Net)
 - **Databases:** MongoDB, Firebase, SQLite , mySql
 - **Development Tools:** Git, VS Code, Xcode, Android Studio , IntelliJ
 - **Others:** HTML, CSS, RESTful APIs
