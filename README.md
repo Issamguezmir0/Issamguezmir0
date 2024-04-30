@@ -28,7 +28,7 @@ Hello, I'm Issam Guezmir, a 4th-year engineering student with a passion for soft
 
 ## 📫 Contact Me
 
-Feel free to reach out for collaboration opportunities, interesting projects, or just to discuss tech! 📧 [i.guezmirr@gmail.com](mailto:guezmir.issam@esprit.tn)
+Feel free to reach out for collaboration opportunities, interesting projects, or just to discuss tech! 📧 [i.guezmirr@gmail.com](mailto:guezmir.issam@esprit.tn) or [guezmir.issam@esprit.tn](mailto:guezmir.issam@esprit.tn)
 
 ## 📈 GitHub Statistics
 
