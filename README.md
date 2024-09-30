@@ -36,14 +36,9 @@ Feel free to reach out for collaboration opportunities, interesting projects, or
 
 ## 📊 More Statistics
 
-- **GitHub Activity Graph:**
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=issamguezmir0&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
-
 - **GitHub Profile Summary Cards:**
   ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=issamguezmir0&theme=github_dark)
 
-- **WakaTime Integration:**
-  ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=issamguezmir0&layout=compact&theme=dark)
 
 ## 🌐 Links
 
