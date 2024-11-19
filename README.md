@@ -1,49 +1,95 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello, I'm Issam Guezmir, a 4th-year engineering student with a passion for software development. 🚀 I completed my bachelor's degree in computer science in 2021 and have since been thriving as a Fullstack JavaScript developer, Swift enthusiast, Android developer, and Flutter enthusiast. 💻
+Hello, I'm **Issam Guezmir**, a 4th-year engineering student passionate about software development. 🚀 I completed my bachelor's degree in computer science in 2021 and have since thrived as a **Fullstack JavaScript developer**, **Swift enthusiast**, **Android developer**, and **Flutter enthusiast**. 💻
 
-## 🛠️ Skills
+---
 
-- **Programming Languages:** JavaScript (Node.js , Angular), Swift (SwiftUI , UIkit) , Dart (Flutter), Java (Kotlin) , java (Spring Boot) , C# (ASP.Net)
-- **Databases:** MongoDB, Firebase, SQLite , mySql
-- **Development Tools:** Git, VS Code, Xcode, Android Studio , IntelliJ
-- **Others:** HTML, CSS, RESTful APIs
+## 🛠️ **Skills**
 
-## 📚 Education
+- **Programming Languages:**  
+  JavaScript (Node.js, Angular), Swift (SwiftUI, UIKit), Dart (Flutter), Java (Kotlin), Java (Spring Boot), C# (ASP.Net)  
+- **Databases:**  
+  MongoDB, Firebase, SQLite, MySQL  
+- **Development Tools:**  
+  Git, VS Code, Xcode, Android Studio, IntelliJ  
+- **Others:**  
+  HTML, CSS, RESTful APIs  
 
-- **Engineering Program:** [ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies] (Ongoing)
-- **Bachelor's in Computer Science:** [SESAME: Ecole Supérieure des Sciences Appliqués et de Management] (2021)
+---
 
-## 🚀 Notable Projects
+## 📚 **Education**
 
-- [Greentrack](https://github.com/Issamguezmir0/GreenTrack-Flutter) - EcoTrack is a mobile application designed to encourage users to adopt a more environmentally friendly lifestyle and contribute to the fight against climate change. Features include carbon footprint tracking, tips to reduce carbon footprint, ecological challenges, and an eco-points map. Developed for iOS in Swift and Android with Kotlin.
+- **Engineering Program:**  
+  [**ESPRIT: Ecole Sup Privée d'Ingénierie et de Technologies**] *(Ongoing)*  
+- **Bachelor's in Computer Science:**  
+  [**SESAME: Ecole Supérieure des Sciences Appliquées et de Management**] *(2021)*  
 
-- [E-commerce Platform](https://github.com/Issamguezmir0/Module-Transaction-Facturation-javaFX-APi-MAILING-PDF) - Developed in three versions: desktop with JavaFX and Scene Builder, web with Symfony and template integration, and mobile with CodeNameOne.
+---
 
-- [Tunisaire Handling Company Website](https://github.com/Issamguezmir0/SYMFONY-Bandl-MAILING-AND-PDF) - Website for the Tunisian Aerial Handling Company using php symfony (Template integration) and mySQL .
+## 🚀 **Notable Projects**
 
-- [HR Management Application](https://github.com/Issamguezmir0/HumainRessource_App) - Final year project involving the development of an HR management application using Node.js, AngularJS, Express.js, and MongoDB.
+### 🌱 [**GreenTrack**](https://github.com/Issamguezmir0/GreenTrack-Flutter)  
+EcoTrack is a mobile application designed to encourage users to adopt a more environmentally friendly lifestyle and contribute to the fight against climate change.  
+**Features:**  
+- Carbon footprint tracking  
+- Eco-friendly tips  
+- Ecological challenges  
+- Eco-points map  
 
-- [Phone Directory Management Application] - Application for managing phone directories using React, Node.js, Express.js , and mongoDB.
+**Tech Stack:** iOS (Swift) and Android (Kotlin).  
 
-## 📫 Contact Me
+---
 
-Feel free to reach out for collaboration opportunities, interesting projects, or just to discuss tech! 📧 [i.guezmirr@gmail.com](mailto:guezmir.issam@esprit.tn) or [guezmir.issam@esprit.tn](mailto:guezmir.issam@esprit.tn)
+### 🛒 [**E-commerce Platform**](https://github.com/Issamguezmir0/Module-Transaction-Facturation-javaFX-APi-MAILING-PDF)  
+Developed in three versions:  
+1. **Desktop**: JavaFX and Scene Builder  
+2. **Web**: Symfony with template integration  
+3. **Mobile**: CodeNameOne  
 
-## 📈 GitHub Statistics
+---
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=issamguezmir0&show_icons=true&count_private=true&hide=issues&theme=dark)
+### ✈️ [**Tunisaire Handling Company Website**](https://github.com/Issamguezmir0/SYMFONY-Bandl-MAILING-AND-PDF)  
+Developed a website for the Tunisian Aerial Handling Company using PHP Symfony with template integration and MySQL.  
 
-## 📊 More Statistics
+---
 
-- **GitHub Profile Summary Cards:**
-  ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=issamguezmir0&theme=github_dark)
+### 🧑‍💼 [**HR Management Application**](https://github.com/Issamguezmir0/HumainRessource_App)  
+A comprehensive application for managing HR processes.  
+**Tech Stack:** Node.js, AngularJS, Express.js, and MongoDB.  
 
+---
 
-## 🌐 Links
+### 📞 [**Phone Directory Management Application**]  
+A React-based application for managing phone directories.  
+**Tech Stack:** React, Node.js, Express.js, and MongoDB.  
 
-- [LinkedIn](https://www.linkedin.com/in/issam-guezmir-b3332a195/)
-- [Facebook](https://www.facebook.com/isam.gzt/)
+---
 
+## 📊 **GitHub Statistics**
 
-Thanks for visiting my profile! 🙌
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=issamguezmir0&show_icons=true&count_private=true&theme=radical)  
+
+### **Language Breakdown**  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=issamguezmir0&layout=compact&theme=radical)
+
+### **Contribution Graph**  
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=issamguezmir0&theme=react-dark)
+
+---
+
+## 🌐 **Social Links**
+
+- [**LinkedIn**](https://www.linkedin.com/in/issam-guezmir-b3332a195/)  
+- [**Facebook**](https://www.facebook.com/isam.gzt/)  
+
+---
+
+### 📧 **Contact Me**
+
+Feel free to reach out for collaborations or discussions about tech:  
+📧 [i.guezmirr@gmail.com](mailto:guezmir.issam@esprit.tn) or [guezmir.issam@esprit.tn](mailto:guezmir.issam@esprit.tn)  
+
+---
+
+### **Thanks for visiting my profile!** 🙌  
+![Visitor Count](https://komarev.com/ghpvc/?username=issamguezmir0&style=flat-square&color=blue)  
