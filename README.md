@@ -73,7 +73,8 @@ A React-based application for managing phone directories.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=issamguezmir0&layout=compact&theme=radical)
 
 ### **Contribution Graph**  
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=issamguezmir0&theme=react-dark)
+![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=issamguezmir0&theme=github_dark&utcOffset=8)
+
 
 ---
 
