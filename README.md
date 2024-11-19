@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello, I'm **Issam Guezmir**, a 4th-year engineering student passionate about software development. 🚀 I completed my bachelor's degree in computer science in 2021 and have since thrived as a **Fullstack JavaScript developer**, **Swift enthusiast**, **Android developer**, and **Flutter enthusiast**. 💻
+Hello, I'm **Issam Guezmir**, a 5th-year engineering student passionate about software development. 🚀 I completed my bachelor's degree in computer science in 2021 and have since thrived as a **Fullstack JavaScript developer**, **Swift enthusiast**, **Android developer**, and **Flutter enthusiast**. 💻
 
 ---
 
