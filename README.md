@@ -3,6 +3,9 @@
 Hello, I'm **Issam Guezmir**, a 5th-year engineering student passionate about software development. 🚀 I completed my bachelor's degree in computer science in 2021 and have since thrived as a **Fullstack JavaScript developer**, **Swift enthusiast**, **Android developer**, and **Flutter enthusiast**. 💻
 
 ---
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=issamguezmir0&theme=darkhub&margin-w=10&rank=S,A,B,C&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠️ **Skills**
 
