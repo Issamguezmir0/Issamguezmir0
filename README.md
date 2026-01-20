@@ -90,7 +90,7 @@ A React-based application for managing phone directories.
 
 - [**LinkedIn**](https://www.linkedin.com/in/issam-guezmir-b3332a195/)  
 - [**Facebook**](https://www.facebook.com/isam.gzt/)  
-
+- [**Portfolio**](https://issamguezmir-eportfolio.netlify.app/)
 ---
 
 ### 📧 **Contact Me**
