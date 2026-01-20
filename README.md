@@ -17,7 +17,7 @@ Hello, I'm **Issam Guezmir**, a software engineer passionate about software deve
   Git, VS Code, Xcode, Android Studio, IntelliJ  
 - **Automatisation:**
   n8n, Make.com
--**Test Api:**
+- **Test Api:**
   Postman, Swagger
 - **Others:**  
   HTML, CSS, RESTful API
