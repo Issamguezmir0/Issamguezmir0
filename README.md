@@ -10,13 +10,18 @@ Hello, I'm **Issam Guezmir**, a software engineer passionate about software deve
 ## 🛠️ **Skills**
 
 - **Programming Languages:**  
-  JavaScript (Node.js, Angular), Swift (SwiftUI, UIKit), Dart (Flutter), Java (Kotlin), Java (Spring Boot), C# (ASP.Net)  
+  JavaScript (Node.js, Angular),Typescript (Nest.js, Next.js), Swift (SwiftUI, UIKit), Dart (Flutter), Java (Kotlin), Java (Spring Boot), C# (ASP.Net)  
 - **Databases:**  
-  MongoDB, Firebase, SQLite, MySQL  
+  MongoDB, Firebase, SQLite, MySQL, Postgresql, Supabase
 - **Development Tools:**  
   Git, VS Code, Xcode, Android Studio, IntelliJ  
+- **Automatisation:**
+  n8n, Make.com
+-**Test Api:**
+  Postman, Swagger
 - **Others:**  
-  HTML, CSS, RESTful APIs  
+  HTML, CSS, RESTful API
+
 
 ---
 
